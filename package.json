@@ -1,0 +1,8 @@
+{
+  "name": "btcpay-digital-fulfillment",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build:data": "node scripts/build-product-data.js"
+  }
+}
